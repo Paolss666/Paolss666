@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nicola Paoletti</h1>
+<h1 align="center">Hi 👋, I'm Nicola</h1>
 <h3 align="center">A passionate software developer from Italy, based in Paris</h3>
 
 - 🌱 I’m currently learning **at 42Paris**
-
-- 📫 How to reach me **nicola.paoletti@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,3 @@
-# 💫 About Me:
 <br>A passionate software developer from Italy 🇮🇹, based in Paris 🇫🇷<br><br>🌱  Currently studying at 42 Paris<br>💡  Building things from scratch every day<br>🤝  Always open to collaborate on interesting projects
 
 ## 🌐 Socials:
